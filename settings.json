@@ -1,0 +1,75 @@
+{
+    "workbench.iconTheme": "symbols",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 18,
+    "workbench.colorTheme": "Min Dark",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.confirmDelete": false,
+    "workbench.settings.editor": "json",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.rulers": [80, 120],
+    "explorer.compactFolders": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.location": "hidden",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "apc.font.family": "Inter",
+    "apc.stylesheet": {
+        ".title-label > h2": "display: none",
+        ".editor-actions": "display: none",
+        ".pane-body": "padding: 2px"
+    },
+    "apc.listRow": {
+        "height": 24
+    },
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+        "vue": "html"
+    },
+    "emmet.preferences": {
+    
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.associations": {
+        "*.css": "css"
+    },
+    "github.copilot.advanced": {
+        
+    },
+    "git.autofetch": true,
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "vsicons.dontShowNewVersionMessage": true
+}
